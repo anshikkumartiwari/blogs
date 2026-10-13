@@ -1,6 +1,8 @@
 [
   {
-    "file": "article1.md",
+    "id": "blog1",
+    "file": "blog1/blog.md",
+    "slug": "flipkart-interview-experience",
     "title": "My experience with interview at flipkart",
     "subtitle": "A personal review of the software engineering interview process and technical rounds",
     "date": "Apr 7, 2026",
@@ -8,7 +10,9 @@
     "description": "A walkthrough of my interview experience at Flipkart. I discuss the technical problem-solving rounds, system design questions, and the key preparation strategies that helped me navigate the process."
   },
   {
-    "file": "article2.md",
+    "id": "blog2",
+    "file": "blog2/blog.md",
+    "slug": "designing-quiet-software-in-a-loud-world",
     "title": "Designing Quiet Software in a Loud World",
     "subtitle": "An essay on building focused, minimalist, and deeply respectful digital environments",
     "date": "Mar 12, 2026",
@@ -16,7 +20,9 @@
     "description": "In an industry obsessed with user retention, notifications, and continuous engagement, how do we design software that is silent, respectful, and fully in service of the user?"
   },
   {
-    "file": "article3.md",
+    "id": "blog3",
+    "file": "blog3/blog.md",
+    "slug": "webv-wrapping-web-pages-in-c-and-gtk",
     "title": "WebV: Wrapping Web Pages in C & GTK",
     "subtitle": "Building a lightweight, Linux-native browser wrapper with GTK3 and WebKit2",
     "date": "Feb 28, 2026",
