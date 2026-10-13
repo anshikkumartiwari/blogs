@@ -1,32 +1,32 @@
 [
   {
     "id": "blog1",
-    "file": "blog1/blog.md",
+    "file": "blog1/article.md",
     "slug": "flipkart-interview-experience",
     "title": "My experience with interview at flipkart",
     "subtitle": "A personal review of the software engineering interview process and technical rounds",
+    "description": "A personal review of the software engineering interview process and technical rounds",
     "date": "Apr 7, 2026",
-    "readTime": "11 min read",
-    "description": "A walkthrough of my interview experience at Flipkart. I discuss the technical problem-solving rounds, system design questions, and the key preparation strategies that helped me navigate the process."
+    "readTime": "11 min read"
   },
   {
     "id": "blog2",
-    "file": "blog2/blog.md",
+    "file": "blog2/article.md",
     "slug": "designing-quiet-software-in-a-loud-world",
     "title": "Designing Quiet Software in a Loud World",
     "subtitle": "An essay on building focused, minimalist, and deeply respectful digital environments",
+    "description": "An essay on building focused, minimalist, and deeply respectful digital environments",
     "date": "Mar 12, 2026",
-    "readTime": "4 min read",
-    "description": "In an industry obsessed with user retention, notifications, and continuous engagement, how do we design software that is silent, respectful, and fully in service of the user?"
+    "readTime": "4 min read"
   },
   {
     "id": "blog3",
-    "file": "blog3/blog.md",
+    "file": "blog3/article.md",
     "slug": "webv-wrapping-web-pages-in-c-and-gtk",
     "title": "WebV: Wrapping Web Pages in C & GTK",
     "subtitle": "Building a lightweight, Linux-native browser wrapper with GTK3 and WebKit2",
+    "description": "Building a lightweight, Linux-native browser wrapper with GTK3 and WebKit2",
     "date": "Feb 28, 2026",
-    "readTime": "7 min read",
-    "description": "How to engineer a fast, native browser launcher in C using the GTK3 framework to wrap web interfaces into beautiful GUI windows without the memory overhead of Chromium or Electron."
+    "readTime": "7 min read"
   }
 ]

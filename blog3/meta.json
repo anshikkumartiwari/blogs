@@ -1,0 +1,10 @@
+{
+  "title": "WebV: Wrapping Web Pages in C & GTK",
+  "subtitle": "Building a lightweight, Linux-native browser wrapper with GTK3 and WebKit2",
+  "description": "Building a lightweight, Linux-native browser wrapper with GTK3 and WebKit2",
+  "date": "Feb 28, 2026",
+  "readTime": "7 min read",
+  "slug": "webv-wrapping-web-pages-in-c-and-gtk",
+  "author": "Anshik Kumar Tiwari",
+  "authorImage": "../images/profile.jpg"
+}
